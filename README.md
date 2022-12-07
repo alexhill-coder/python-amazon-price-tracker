@@ -25,7 +25,7 @@ If you wish to contribute to any of my files, you are more than welcome to as lo
 
 ## License
 
-This project falls under The Unlicense allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/python-password-manager/blob/master/LICENSE.md)
+This project falls under The Unlicense allowing for the use of this project for any purpose. For more information on this type of license please see the [LICENSE.md](https://github.com/alexhill-coder/python-amazon-price-tracker/blob/master/LICENSE.md)
 
 ## Contact
 
